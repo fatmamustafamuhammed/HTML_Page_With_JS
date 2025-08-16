@@ -1,5 +1,5 @@
-let names = ["Fatma", "Asmaa", "Abduallah", "Ahmed"];
-let ages = ["23 Years Old", "17 Years Old", "15 Years Old", "30 Years Old"];
+let names = ["Fatma", "Asmaa", "Abduallah", "Ahmed"]; // 0:3
+let ages = ["23 Years Old", "17 Years Old", "15 Years Old", "30 Years Old"]; // 0:3
 
 let container = document.createElement("div");
 container.style.textAlign = "center";
